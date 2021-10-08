@@ -8,3 +8,9 @@ message Person {
     string mobile_number = 2;
     string address = 3;
 }
+
+message Test{
+    string name = 1;
+    string number = 2;
+    string location = 3;
+}
